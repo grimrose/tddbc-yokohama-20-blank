@@ -12,3 +12,4 @@
 # build directory #
 out/
 build/
+bin/
