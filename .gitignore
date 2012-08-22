@@ -1,4 +1,17 @@
+# binary #
 *.class
+
+# dot files #
+.DS_Store
+.classpath
+.project
+
+.settings/
+.gradle/
+
+# build directory #
+out/
+build/
 
 # Package Files #
 *.jar
