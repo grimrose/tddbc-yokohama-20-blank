@@ -12,8 +12,3 @@
 # build directory #
 out/
 build/
-
-# Package Files #
-*.jar
-*.war
-*.ear
