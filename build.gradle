@@ -27,8 +27,13 @@ repositories {
 }
 
 dependencies {
+    // for groovy
     groovy 'org.codehaus.groovy:groovy-all:2.1.1'
     testCompile 'org.spockframework:spock-core:1.0-groovy-2.0-SNAPSHOT'
+
+    // for java
+    testCompile 'junit:junit:4.11'
+
 }
 
 task quickStart << {
